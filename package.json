@@ -16,7 +16,7 @@
     "express",
     "demo"
   ],
-  "author": "Bruno Germano <bruno@egermano.com>",
+  "author": "Eron Moraes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/obg-lab/setup-nodejs/issues"
